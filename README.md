@@ -18,6 +18,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - (https://www.your-site.com)
+- Website - ([https://www.your-site.com](https://b-viv.github.io/QRCodeComponent/))
 - Frontend Mentor - (https://www.frontendmentor.io/profile/b-viv))
 
